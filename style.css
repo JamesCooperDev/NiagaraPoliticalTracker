@@ -1,0 +1,18 @@
+body {
+    background-color: #4B4453;
+    }
+.Banner{
+    border-style:double;
+    text-align: center;
+    padding: 1% 1% 1% 1%;
+    margin: 1rem 1rem 1rem 1rem;
+    background-color: #B1A8B9;
+    border-color: #E5CCFF;
+    border-radius: 2px;
+    
+}
+h1{
+    text-decoration: underline;
+    text-decoration-color: #E5CCFF;
+    text-decoration-style: dotted;
+}
